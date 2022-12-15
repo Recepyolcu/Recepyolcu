@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Recepyolcu i'm a student at DEU 
-- 👀 I’m interested in IA, OOP, Game Developing, C Programming, Python
-- 🌱 I’m currently learning C#, SQL, Javascript, Delphi, .Net Framework, ASP.Net, Visual Basic.
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning Creative coding in Javascript.
 - 📫 How to reach me Instagram or e-mail.
 - ig: https://www.instagram.com/recep.yolcu_/
-- e-mail: reeceep05@gmail.com
+- e-mail: recepyolcu.coding@gmail.com
